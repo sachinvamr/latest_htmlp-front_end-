@@ -1,2 +1,3 @@
 # latest_htmlp-front_end-
-This is frontend webpage with latest html features (Progate)
+Frontent created using html and css and also 
+using new tags and features
